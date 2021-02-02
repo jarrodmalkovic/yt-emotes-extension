@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "EmotesMe",
+  "description": "Add custom emotes to your YouTube Livestream",
+  "version": "1.0",
+  "permissions": [
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.gaming.youtube.com/*",
+        "*://*.youtube.com/*"
+      ],
+      "js": [
+        "./dist/emotes.bundle.js"
+      ],
+      "css": [
+        "/src/styles/styles.css"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "background": { "scripts": ["./dev/hot-reload.js"] }
+}
