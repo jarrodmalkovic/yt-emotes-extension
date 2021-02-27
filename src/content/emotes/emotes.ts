@@ -2,21 +2,10 @@ const getChannelEmotes = async (channelId: string) => {
   // Just some fake data for now
   const emotes: any = [
     {
-      emoteName: 'TriDance',
+      emoteName: 'emote1',
       imgUrl:
         'https://res.cloudinary.com/dxzqdsjok/image/upload/h_28,w_28/v1611753305/xeu82njprqgvvf3n3von.png',
-    },
-
-    {
-      emoteName: 'Pepega',
-      imgUrl:
-        'https://res.cloudinary.com/dxzqdsjok/image/upload/h_28,w_28/v1611753305/xeu82njprqgvvf3n3von.png',
-    },
-    {
-      emoteName: 'Clap',
-      imgUrl:
-        'https://res.cloudinary.com/dxzqdsjok/image/upload/h_28,w_28/v1611753305/xeu82njprqgvvf3n3von.png',
-    },
+    }
   ];
 
   const emotesHtml: any = {};
