@@ -41,13 +41,6 @@ npm install
 npm run dev
 ```
 
-### Install dependencies
-
-
-```bash
-npm install
-```
-
 ### Add the extension to your browser
 #### For Google Chrome
 - Navigate to chrome://extensions/ 
