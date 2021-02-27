@@ -48,7 +48,8 @@ npm run dev
 npm install
 ```
 
-### Add the extension to Google Chrome
+### Add the extension to your browser
+#### For Google Chrome
 - Navigate to chrome://extensions/ 
 - Enable Developer Mode
 - Click Load Unpacked
