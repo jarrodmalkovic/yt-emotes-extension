@@ -11,7 +11,7 @@
 ## 📝 Table of contents
 
 - [Features](#-features)
-- [Run Locally](#-run-locally)
+- [Local Development](#-local-development)
 - [Technologies](#-technologies)
 - [License](#-license)
 
@@ -19,7 +19,7 @@
 
 - Coming soon
 
-## 🚀 Run Locally
+## 🚀 Local Development
 
 
 ### Clone the respository locally
