@@ -17,7 +17,7 @@
 
 ## ✨ Features
 
-- Coming soon
+- Live reloading for development using Webpack
 
 ## 🚀 Local Development
 
