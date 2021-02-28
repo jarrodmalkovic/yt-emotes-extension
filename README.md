@@ -1,6 +1,6 @@
 <h1 align="center">Custom YouTube Emotes Browser Extension</h1>
 
-<p align="center">🚧 Under development 🚧</p>
+<h3 align="center">🚧 Under development 🚧</h3>
 
 <h3 align="center">
   <a href="https://github.com/jarrodmalkovic/yt-emotes-website">Repo for the Website</a> |
